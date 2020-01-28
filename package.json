@@ -28,8 +28,5 @@
     "bugs": {
         "url": "https://github.com/highcharts/rounded-corners/issues"
     },
-    "homepage": "https://github.com/highcharts/rounded-corners#readme",
-    "dependencies": {
-        "highcharts": ">=3.0.0"
-    }
+    "homepage": "https://github.com/highcharts/rounded-corners#readme"
 }
